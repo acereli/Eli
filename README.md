@@ -38,7 +38,6 @@
 - ✉️ **Email** : elit5246@gmail.com  
 - 💼 **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com)
 
-- ![Banner](https://raw.githubusercontent.com/Eli/Eli/main/assets/banner.png)
 
 # 👋 Salut, moi c’est Eli
 

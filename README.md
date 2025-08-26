@@ -28,8 +28,8 @@
 
 ## 📊 Statistiques GitHub  
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Amedh&show_icons=true&theme=tokyonight)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amedh&layout=compact&theme=tokyonight)  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Eli&show_icons=true&theme=tokyonight)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli&layout=compact&theme=tokyonight)  
 
 ---
 
